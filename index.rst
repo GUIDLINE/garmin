@@ -3,8 +3,8 @@ Garmin Express at Garmin.com/Express – Fast Updates for Your Garmin GPS
 =======================================================================
 
 .. image:: get.png
-   :alt: homedepot.com/mycard
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :alt: Garmin.com/Express
+   :target: https://fm.ci?aHR0cHM6Ly9nYXJtaW5ndWlkZWxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 Keeping your Garmin GPS device updated is crucial for accurate navigation, enhanced performance, and access to the latest features. Whether you use it for hiking, driving, or fitness, outdated maps or software can affect its reliability. That’s where **Garmin Express**, the official software available at `Garmin.com/Express <https://www.garmin.com/express/>`_, comes into play.
 
