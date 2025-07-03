@@ -2,7 +2,7 @@
 Garmin Express at Garmin.com/Express – Fast Updates for Your Garmin GPS
 =======================================================================
 
-.. image:: get.jpg
+.. image:: get.png
    :alt: homedepot.com/mycard
    :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
